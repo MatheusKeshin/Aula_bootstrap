@@ -1,0 +1,28 @@
+.navbar{
+    background-color: burlywood;
+}
+
+#quem-somos{
+    background-color: rgb(65, 54, 11);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros-bg{
+    background-color: black;
+}
+body{
+    font-family: 20px Arial, sans-serif;
+    color: white;
+}
+
+.serviços{
+    color: black;
+    padding: 20px 10px 20px 20px;
+}
+
+.foot{
+    padding: 10px;
+    color: black;
+    background-color: coral;
+}
